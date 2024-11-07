@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "string.h": "c",
+        "in.h": "c",
+        "ip.h": "c",
+        "tcp.h": "c",
+        "analysis.h": "c",
+        "sniff.h": "c",
+        "pthread.h": "c",
+        "dispatch.h": "c"
+    }
+}
